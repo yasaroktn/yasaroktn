@@ -38,5 +38,5 @@
 <p align="center">### :male-technologist: My 42 status</p>
 <p align="center"><img src="https://badge42.vercel.app/api/v2/cl977v9nc00300gkz9cm5re72/stats?cursusId=21&coalitionId=227"/></p>
 <p align="center"><img src="https://youtube-stats-card.vercel.app/api?channelid=UCDc0WPgvJkfThIAu4VcPDtQ&layout=extruded&theme=radical"/></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talhaaksoy&show_icons=true&locale=en" alt="talhaaksoy" /></p>
+<p align="center">&nbsp;<img align="center" src="https://badge42.vercel.app/api/v2/cld10ke9s00160fi83w4ion0x/stats?cursusId=21&coalitionId=197" alt="talhaaksoy" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhaaksoy&show_icons=true&locale=en&layout=compact" alt="talhaaksoy" /></p>
