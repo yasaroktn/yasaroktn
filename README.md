@@ -8,7 +8,6 @@ Hi, i'm <a href="https://www.linkedin.com/in/ya%C5%9Far-%C3%B6kten-9a4118263/">Y
 - 💬 ask me about anything, i am happy to help;
 </br>
 </br>
- </br>
   <a href="mailto:">
   <img align="left" alt="yasaroktnn@gmail.com Mail" width="25px" src="https://cdn.pixabay.com/photo/2019/10/19/17/24/gmail-4561841_960_720.png"/>
 </a>
