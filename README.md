@@ -15,7 +15,7 @@ Hi, i'm <a href="https://www.linkedin.com/in/ya%C5%9Far-%C3%B6kten-9a4118263/">Y
  <a href="https://www.instagram.com/yasaroktn//">
  <img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/>
 </a>
- <a href="https://twitter.com/Yaarkten4">
+ <a href="https://twitter.com/yaarkten4">
   <img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png"/>
 </a>
  <img align="left" src="https://visitor-badge.glitch.me/badge?page_id=yasaroktn.yasaroktn"/>
