@@ -46,12 +46,12 @@ Hi, i'm <a href="https://www.linkedin.com/in/yasar-okten/">Yaşar Ökten </a>, a
 </br></br></br>
 <h3 align="center">Done</h3>
 <p align="center">
-  <a href="https://github.com/karakuscem/42-libft"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png"></a>
-  <a href="https://github.com/karakuscem/42-get-next-line"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/get_next_linem.png"></a>
-  <a href="https://github.com/karakuscem/42-printf"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printfe.png"></a>
-  <a href="https://github.com/karakuscem/born2beroot"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/born2berootm.png"></a>
-  <a href="https://github.com/karakuscem/42-minitalk"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minitalkm.png"></a>
-  <a href="https://github.com/karakuscem/42-so_long"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/so_longm.png"></a>
-  <a href="https://github.com/karakuscem/42-push_swap"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/push_swapm.png"></a>
+  <a href="https://github.com/yasaroktn/42-Cursus-Libft"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/libftm.png"></a>
+  <a href="https://github.com/yasaroktn/42-Cursus-GetNextLine"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/get_next_linem.png"></a>
+  <a href="https://github.com/yasaroktn/42-Cursus-Printf"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/ft_printfe.png"></a>
+  <a href="https://baigal.medium.com/born2beroot-e6e26dfb50ac"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/born2berootm.png"></a>
+  <a href="https://github.com/yasaroktn/42-Cursus-MiniTalk"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minitalkm.png"></a>
+  <a href="https://github.com/yasaroktn/42-Cursus-SoLong"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/so_longm.png"></a>
+  <a href="https://github.com/yasaroktn/Push_Swap"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/push_swapm.png"></a>
 </p>
 
