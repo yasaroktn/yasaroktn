@@ -34,7 +34,9 @@ Hi, i'm <a href="https://www.linkedin.com/in/yasar-okten/">Yaşar Ökten </a>, a
 <a href="https://www.w3schools.com/css/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="29" height="29"/> </a> 
 <img align="right" src="https://media.tenor.com/Ev_Zlnn-niMAAAAM/horse-developer.gif" width="280" height="230"  /> 
-<a href="https://www.linux.org/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> 
+</a>
+<a href="https://www.ibm.com/products/zos" target="_blank" rel=”noopener”> <img src="https://i.hizliresim.com/7v5tnll.png" alt="html5" width="34" height="34"/> </a> 
 </br></br>
 </br>
 <h3 align="left">Tools:</h3>
