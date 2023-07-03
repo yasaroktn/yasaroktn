@@ -45,6 +45,7 @@ Hi, i'm <a href="https://www.linkedin.com/in/yasar-okten/">Yaşar Ökten </a>, a
 <a href="https://slack.com/intl/en-tr/" target="_blank" rel=”noopener”> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="37" height="37"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a>
 <a href="https:https://www.vim.org/" target="_blank" rel=”noopener”> <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" alt="vim" width="30" height="30"/> </a> 
+<a href="https://www.zowe.org/" target="_blank" rel=”noopener”> <img src="https://i.hizliresim.com/4w4h01g.png" alt="vim" width="33" height="33"/> </a>
 </br></br></br>
 <h3 align="center">Done</h3>
 <p align="center">
