@@ -28,6 +28,7 @@ Hi, i'm <a href="https://www.linkedin.com/in/yasar-okten/">Yaşar Ökten </a>, a
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
 <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" rel=”noopener”> <img src="https://blog.kakaocdn.net/dn/bTslSR/btqS1WFdn35/T3AOCIr0VjKJ9kPiXneDU1/img.png" alt="csharp" width="30" height="30"/> </a>
+<a href="https://www.ibm.com/docs/en/i/7.4?topic=languages-cobol" target="_blank" rel=”noopener”> <img src="https://logodix.com/logo/2100309.png" alt="html5" width="34" height="34"/> </a> 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="30" height="30"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>
