@@ -47,7 +47,7 @@ Hi, i'm <a href="https://www.linkedin.com/in/yasar-okten/">Yaşar Ökten </a>, a
 <a href="https://www.photoshop.com/en" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a>
 <a href="https:https://www.vim.org/" target="_blank" rel=”noopener”> <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" alt="vim" width="30" height="30"/> </a> 
 <a href="https://www.zowe.org/" target="_blank" rel=”noopener”> <img src="https://i.hizliresim.com/4w4h01g.png" alt="zowe" width="33" height="33"/> </a>
-<a href="https://www.loom.com/" target="_blank" rel=”noopener”> <img src="https://avatars.slack-edge.com/2020-11-30/1523833081063_159cf989d1cbf0ecc5c9_512.png" alt="loom" width="32" height="32"/> </a>
+<a href="https://www.loom.com/" target="_blank" rel=”noopener”> <img src="https://avatars.slack-edge.com/2020-11-30/1523833081063_159cf989d1cbf0ecc5c9_512.png" alt="loom" width="30" height="30"/> </a>
 </br></br></br>
 <h3 align="center">Done</h3>
 <p align="center">
