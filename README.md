@@ -58,5 +58,6 @@ Hi, i'm <a href="https://www.linkedin.com/in/yasar-okten/">Yaşar Ökten </a>, a
   <a href="https://github.com/yasaroktn/42-Cursus-MiniTalk"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/minitalkm.png"></a>
   <a href="https://github.com/yasaroktn/42-Cursus-SoLong"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/so_longm.png"></a>
   <a href="https://github.com/yasaroktn/Push_Swap"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/push_swapm.png"></a>
+  <a href="https://github.com/yasaroktn/Philosophers"><img src="https://github.com/byaliego/42-project-badges/blob/main/badges/philosopherse.png"></a>
 </p>
 
